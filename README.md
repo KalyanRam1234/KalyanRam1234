@@ -2,6 +2,10 @@
 
 <br/>
 
+- 3rd year, CSE student at IIIT Bangalore.
+
+<br/>
+
 ## Connect With Me
 <div align="center">
 

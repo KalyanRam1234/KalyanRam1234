@@ -1,4 +1,4 @@
-### <div align="center"> Hi, I'm Kalyan from IIITB, a Full-Stack Web Developer and ML enthusiast 👨‍💻</div>
+### <div align="center"> Hi, I'm Kalyan, a Full-Stack Web Developer and ML enthusiast 👨‍💻</div>
 
 <br/>
 

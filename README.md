@@ -24,4 +24,7 @@
 </div>
 
 ## Github Stats
-<div align="center"><img src="https://github-readme-stats.vercel.app/api?username=KalyanRam1234&show_icons=true&count_private=true&hide_border=true" align="center" /></div>  
+<div align="center">
+  <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=KalyanRam1234&theme=&show_icons=true&locale=en&layout=compact" alt="KalyanRam1234" /></p>
+  <img src="https://github-readme-stats.vercel.app/api?username=KalyanRam1234&show_icons=true&count_private=true&hide_border=true" align="center" />
+</div>  

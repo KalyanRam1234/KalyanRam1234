@@ -3,6 +3,11 @@
 <br/>
 
 - 3rd year, CSE student at IIIT Bangalore.
+- Currently learning ML, Rust programming and Web3.0.
+- Devops and Deployment enthusiast: Worked with AWS for deployment and Github actions for CI/CD.
+- How to reach me - **kalyanram.munagala@iiitb.ac.in**
+- Core member of Sports Committee - IIITB
+- Fun Fact - I love sports, especially badminton.
 
 <br/>
 
